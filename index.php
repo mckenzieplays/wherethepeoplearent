@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <?php include("includes/navigation.html");?>
     <h1>Let it be wild.</h1>
     <p>A wilderness signifies what is little inhabited and cultivated, 
       and also signifies what is not at all inhabited and cultivated, and is thus 
