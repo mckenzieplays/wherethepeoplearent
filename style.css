@@ -8,7 +8,6 @@ header {
    background-image: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
    height: 230px;
    padding: 20px 0 70px 0;
-   background-attachment: fixed, fixed, fixed, scroll;
    text-align: left;
 }
 h1 {
