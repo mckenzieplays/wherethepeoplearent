@@ -1,8 +1,13 @@
+nav, a, p {
+   font-family: 'Poppins'; 'sans-serif';
+}
 h1 {
-   color: crimson;
+   color: hsl(180, 87%, 50%);
+   font-family: 'Nunito'; 'sans-serif';
 }
 nav {
    background-color: hsl(180, 87%, 50%);
    font-family: 'Poppins';
    color: white;
 }
+a {
