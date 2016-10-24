@@ -1,3 +1,7 @@
+<?php
+  header( 'Location: http://www.wherethepeoplearent.com' );
+  exit();
+?>
 <!doctype html>
 <html>
   <head>
