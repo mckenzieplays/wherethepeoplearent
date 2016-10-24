@@ -5,7 +5,7 @@ nav, a, p {
 }
 header {
    font-family: 'Nunito'; 'sans-serif';
-   background-image: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
+   background: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
    height: 230px;
    padding: 20px 0 70px 0;
    text-align: left;
