@@ -3,10 +3,13 @@
 nav, a, p {
    font-family: 'Poppins'; 'sans-serif';
 }
+header {
+   font-family: 'Nunito'; 'sans-serif';
+   background-image: url(http://publicdomainvectors.org/photos/Mercator-Mountain1.png);
+}
 h1 {
    color: hsl(180, 87%, 50%);
    font-family: 'Nunito'; 'sans-serif';
-   background-image: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
 }
 nav {
    background-color: hsl(180, 87%, 50%);
