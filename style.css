@@ -4,9 +4,9 @@ nav, a, p {
    font-family: 'Poppins'; 'sans-serif';
 }
 header {
-   font-family: 'Nunito'; 'sans-serif';
-   background: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
-   height: 500px;
+   background-image: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
+   background-repeat: none;
+   height: 250px;
    padding: 20px 0 70px 0;
    text-align: left;
 }
