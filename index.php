@@ -1,20 +1,11 @@
 <!doctype html>
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     <title>Where the People Aren't</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1>Let it be wild.</h1>
-    <nav>
-      <ul>
-        <li><a href="urban.html">Urban wilderness</a></li>
-        <li><a href="mountains.html">Mountains</a></li>
-        <li><a href="flowers.html">Flowers</a></li>
-      </ul>
-    </nav>
     <p>A wilderness signifies what is little inhabited and cultivated, 
       and also signifies what is not at all inhabited and cultivated, and is thus 
       used in a twofold sense. Where it signifies what is little inhabited and 
