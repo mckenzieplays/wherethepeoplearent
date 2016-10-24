@@ -9,6 +9,7 @@ nav {
    background-color: hsl(180, 87%, 50%);
    font-family: 'Poppins';
    color: white;
+   width: 25%;
 }
 a {
    color: hsl(180, 87%, 20%);
