@@ -8,6 +8,7 @@ header {
    background-size: 750px 250px;
    background-repeat: no-repeat;
    text-align: left;
+   padding: 0 0 0 10%;
 }
 h1 {
    color: hsl(180, 87%, 50%);
