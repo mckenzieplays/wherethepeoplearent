@@ -1,5 +1,5 @@
 <?php
-  header( 'Location: http://www.wherethepeoplearent.com' );
+  header(Location: "http://www.wherethepeoplearent.com");
   exit();
 ?>
 <!doctype html>
