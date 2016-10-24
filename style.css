@@ -6,8 +6,8 @@ nav, a, p {
 header {
    background-image: url("http://publicdomainvectors.org/photos/Mercator-Mountain1.png");
    background-size: 500px 250px;
-   background-repeat: no-repeat;
-   height: 250px;
+   background-repeat: "no-repeat";
+   height: "250px";
    padding: 20px 0 70px 0;
    text-align: left;
 }
